@@ -1,10 +1,6 @@
 {
     "origin": [
 	    "#searching.capitalize# #location#...",
-	    "#searching.capitalize# #location#...",
-	    "#searching.capitalize# #location#...",
-        "#searching.capitalize# #locationType.a# #location#...",
-        "#searching.capitalize# #locationType.a# #location#...",
         "#searching.capitalize# #locationType.a# #location#...",
         "You #reveal# #containerAdj.a# #containerType#! It's empty. 😢",
         "You #reveal# #containerAdj.a# #containerType#! It's locked. 🔒🔑🤔",
