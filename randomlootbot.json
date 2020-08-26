@@ -1,10 +1,6 @@
 {
     "origin": [
 	    "#searching.capitalize# #location#...",
-	    "#searching.capitalize# #location#...",
-	    "#searching.capitalize# #location#...",
-        "#searching.capitalize# #locationType.a# #location#...",
-        "#searching.capitalize# #locationType.a# #location#...",
         "#searching.capitalize# #locationType.a# #location#...",
         "You #reveal# #containerAdj.a# #containerType#! It's empty. 😢",
         "You #reveal# #containerAdj.a# #containerType#! It's locked. 🔒🔑🤔",
@@ -34,7 +30,10 @@
         "ancient",
         "dangerous",
         "dusty",
-        "royal"
+        "royal",
+        "abandoned",
+        "overgrown",
+        "rewilded"
     ],
 
     "location":[
@@ -42,7 +41,11 @@
         "tomb",
         "ruin",
         "pyramid",
-        "temple"
+        "temple",
+        "altar",
+        "obelisk",
+        "monolith",
+        "laboratory"
     ],
 
     "reveal": [
@@ -54,7 +57,7 @@
         "find",
         "chance upon",
         "dig up",
-	"reveal"
+	 "reveal"
     ],
 
     "containerAdj": [
@@ -63,11 +66,18 @@
         "mahogany",
         "fancy",
         "gilded",
+        "ornate",
         "ordinary",
         "steel",
         "iron",
         "marble",
         "futuristic",
+        "foreboding",
+        "booby-trapped",
+        "elven-wood",
+        "storied",
+        "legendary",
+        "dank",
 "sturdy"
     ],
     "containerType": [
@@ -79,7 +89,10 @@
         "tool chest",
         "suitcase",
         "sarcophagus",
-        "foot locker"
+        "foot locker",
+        "dragon's hoarde",
+        "vault",
+        "lich's lair"
     ],
 
     "randNum": [
