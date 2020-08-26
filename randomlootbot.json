@@ -1,0 +1,166 @@
+{
+    "origin": [
+	    "#searching.capitalize# #location#...",
+	    "#searching.capitalize# #location#...",
+	    "#searching.capitalize# #location#...",
+        "#searching.capitalize# #locationType.a# #location#...",
+        "#searching.capitalize# #locationType.a# #location#...",
+        "#searching.capitalize# #locationType.a# #location#...",
+        "You #reveal# #containerAdj.a# #containerType#! It's empty. 😢",
+        "You #reveal# #containerAdj.a# #containerType#! It's locked. 🔒🔑🤔",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #randNum##randNum# #coinType# coins.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #randNum##randNum# #coinType# coins and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #randNum##randNum# #coinType# coins, #treasureAdj.a# #treasureMat# #treasureType#, and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #randNum##randNum# #coinType# coins, #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #randNum##randNum# #coinType# coins, #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #treasureAdj.a# #treasureMat# #treasureType# and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, and #treasureAdj.a# #treasureMat# #treasureType#.",
+        "You #reveal# #containerAdj.a# #containerType#! Inside, you find #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, #treasureAdj.a# #treasureMat# #treasureType#, and #treasureAdj.a# #treasureMat# #treasureType#."
+
+    ],
+
+    "searching":[
+        "searching",
+        "looting",
+        "marauding",
+        "raiding",
+        "exploring"
+    ],
+  
+    "locationType":[
+        "hidden",
+        "secret",
+        "ancient",
+        "dangerous",
+        "dusty",
+        "royal"
+    ],
+
+    "location":[
+        "dungeon",
+        "tomb",
+        "ruin",
+        "pyramid",
+        "temple"
+    ],
+
+    "reveal": [
+        "uncover",
+        "discover",
+        "unearth",
+        "stumble upon",
+        "happen to find",
+        "find",
+        "chance upon",
+        "dig up",
+	"reveal"
+    ],
+
+    "containerAdj": [
+        "ancient",
+        "oak",
+        "mahogany",
+        "fancy",
+        "gilded",
+        "ordinary",
+        "steel",
+        "iron",
+        "marble",
+        "futuristic",
+"sturdy"
+    ],
+    "containerType": [
+        "treasure chest",
+        "trunk",
+        "wardrobe",
+        "jewelry box",
+        "cigar box",
+        "tool chest",
+        "suitcase",
+        "sarcophagus",
+        "foot locker"
+    ],
+
+    "randNum": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+
+    "coinType": [
+        "gold",
+        "silver",
+        "copper",
+        "iron",
+        "platinum"
+    ],
+
+    "treasureAdj":[
+        "ancient",
+        "impeccable",
+        "enchanted",
+        "",
+        "unusual",
+        "majestic",
+        "glittering",
+        "rusted",
+        "dull",
+        "bejeweled",
+        "sparkling",
+        "shiny",
+        "aged",
+        "vintage",
+        "glowing"
+    ],
+    "treasureMat": [
+        "iron",
+        "stone",
+        "bone",
+        "emerald",
+        "amethyst",
+        "gold",
+        "silver",
+        "titanium",
+        "platinum",
+        "crystal",
+        "platinum",
+        "glass"
+    ],
+
+    "treasureType": [
+        "amulet",
+        "anklet",
+        "bracelet",
+        "chalice",
+        "crown",
+        "pocketwatch",
+        "battleaxe",
+        "pocketknife",
+        "sword",
+        "arrow",
+        "ring",
+        "spyglass",
+        "keychain",
+        "trowel",
+        "necklace",
+        "pipe",
+        "knife",
+        "scissor",
+        "fountain pen",
+        "dagger",
+        "ipod",
+        "key"
+    ]
+}
+
+
+
+
+
